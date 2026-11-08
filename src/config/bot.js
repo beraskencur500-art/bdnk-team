@@ -25,7 +25,7 @@ export const botConfig = {
       {
         name: "lu sp mpruy?", // required by Discord API, not shown in the client
         state: "ngasah linggis cuyy",     // this is what people actually see
-        type: 1,               // Custom
+        type: 0,               // Playing
       },
     ],
   },
